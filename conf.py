@@ -29,7 +29,7 @@ exclude_patterns = ['_build', 'Thumbs.db', '.DS_Store']
 # -- Options for HTML output -------------------------------------------------
 
 html_theme = 'alabaster'
-html_title = "QuickBooks Desktop Download and Install 2025: Step-by-Step Guide to Install and Activate for Windows"
+html_title = "Installing Webroot on Another Computer Made Easy: Reinstall or Download Webroot on Windows 10/11 for Your Already Purchased PC"
 
 # You can still add html_meta here if you want, but with the new Read the Docs addons
 # custom template is the reliable way to inject meta tags.
